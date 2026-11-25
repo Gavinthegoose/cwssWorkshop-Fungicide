@@ -14,14 +14,13 @@ This workshop works through how to create an On/Off Variable Rate application ma
 
 ```bash
 .
-├── README
 ├── documentation
 ├── projects
 ├── rawData
 ├── scripts
 └── workingFiles
 
-6 directories
+5 directories
 
 ```
 

@@ -1,6 +1,6 @@
 # CWSS 2026 Workshop Saskatoon - Fungicide
 
-## Metadata
+## Authors
 
 **Author:** Walker Maess; Kwabena Nketia  
 **Email:** walker.maess@usask.ca  
